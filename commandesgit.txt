@@ -1,0 +1,31 @@
+commandes GitBash
+
+cat : lister les éléments d'un dossier
+cd (nom d'un dossier) : naviguer dans un emplacement / ou juste cd pour revenir au debut
+pwd : pour savoir où on se trouve
+mkdir : Créer un dossier
+ls : pour voir les fichiers dans un doc
+touch : créer un fichier
+nano : ouvrir un fichier
+ctrl o : sauvegarder
+ctrl x : revenir à un git bash
+git add (le nom du fichier) : pour ajouter/indexer le fichier sur Git
+git init : pour initialiser (pour recommencer bien tout dans un nouveau projet)
+git status : pour regarder le statut du projet
+git commit : pour dire ce qu'on a fait dans la nouvelle version du projet et l'archiver en l'etat
+git config : pour s'identifier pour la première fois dans un git bash
+git config --list : pour voir la liste de toutes les configurations
+git remote add origin : pour lier mon projet sur mon pc vers mon repository sur git hub
+git push origin master : pour mettre le projet sur le repository distant sur git hub (la première fois)
+git remote -v : pour savoir à qui/quoi on est liés
+git remote remove origin : sert à couper le lien avec un repository
+git branch (nom de la  branche) = créer une branche (si on met pas de nom ça permet de les lister)
+git branch -d = supprimer une branche
+git merge = fusionner une branche
+git checkout = changer de branche
+git checkout --ours (nom du fichier.txt) : pour choisir notre version (local)
+git checkout --theirs (nom du fichier.txt) : pour choisir l'autre version (git hub)
+
+les 3 commandes pour modifier : git add, git commit, git push
+
+shift + insert pour coller
