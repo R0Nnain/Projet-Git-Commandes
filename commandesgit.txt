@@ -25,6 +25,9 @@ git merge = fusionner une branche
 git checkout = changer de branche
 git checkout --ours (nom du fichier.txt) : pour choisir notre version (local)
 git checkout --theirs (nom du fichier.txt) : pour choisir l'autre version (git hub)
+git fetch --all : permet de récupérer les branches existantes de gitHub dans le local
+
+
 
 les 3 commandes pour modifier : git add, git commit, git push
 
