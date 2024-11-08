@@ -33,5 +33,4 @@ shift + insert pour coller
 Pour travailler dans sa branche : 
 Git branch + nom de la branche pour la créer 
 Git checkout + nom de la branche pour y accéder 
-Après chaque modification : git add , git commit et git push origin + Nom de la branche
-	pour envoyer la modification dans notre branche
+Après chaque modification : git add , git commit et git push origin + Nom de la branche pour envoyer la modification dans notre branche
