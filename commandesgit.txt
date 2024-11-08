@@ -32,3 +32,8 @@ git fetch --all : permet de récupérer les branches existantes de gitHub dans l
 les 3 commandes pour modifier : git add, git commit, git push
 
 shift + insert pour coller
+
+Pour travailler dans sa branche : 
+Git branch + nom de la branche pour la créer 
+Git checkout + nom de la branche pour y accéder 
+Après chaque modification : git add , git commit et git push origin + Nom de la branche pour envoyer la modification dans notre branche
